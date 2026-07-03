@@ -3,7 +3,7 @@
 <img width="1792" height="798" alt="image" src="https://github.com/user-attachments/assets/7d99adf4-4e01-4820-8a17-4ce6c12d4c93" />
 
 Backend service for the BookShop e-commerce platform. Provides REST API
-for catalog, cart, orders, users, and payments.
+for catalog, cart, orders, users, and payments. The project supports passwordless authentication and logging, and also monitors brute-force attempts and records them in the logs.
 
 ## Tech Stack
 - Language/Framework: Python + Django + DRF
